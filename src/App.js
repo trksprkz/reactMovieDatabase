@@ -5,7 +5,7 @@ import MovieCard from "./MovieCard";
 
 
 const API_URL = "http://www.omdbapi.com?apikey=5ace3a4"
-const movie1 = {
+const movie = {
         "Title": "Batman Begins",
         "Year": "2005",
         "imdbID": "tt0372784",
